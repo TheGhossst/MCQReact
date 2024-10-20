@@ -1,9 +1,10 @@
 import { Game } from './components/Game'
+import './styles/App.css'
 
-export function App(){
+export function App() {
   return (
-    <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold text-center mb-8">MCQ Game</h1>
+    <div className="container">
+      <h1>MCQ Game</h1>
       <Game />
     </div>
   )

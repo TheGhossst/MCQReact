@@ -1,0 +1,74 @@
+.game-container {
+  max-width: 400px;
+  margin: 32px auto;
+  padding: 24px;
+  background-color: rgb(24,20,20);
+  border: 1px solid rgb(109, 109, 109);
+  border-radius: 12px;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.question-text {
+  font-size: 18px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.options-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.option-button {
+  width: 100%;
+  padding: 12px;
+  background-color: rgb(24,20,20);
+  border: 1px solid rgb(109, 109, 109);
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.option-button:hover {
+  background-color: #3c3c3c;
+}
+
+.score {
+  margin-top: 24px;
+  text-align: center;
+  font-size: 14px;
+  color: rgb(205, 205, 205);
+}
+
+.final-score {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  margin: 24px 0;
+}
+
+.restart-button {
+  width: 100%;
+  padding: 12px;
+  background-color: rgb(24,20,20);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.restart-button:hover {
+  background-color: #3c3c3c;
+}

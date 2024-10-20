@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "text": "What is the capital of France?",
+        "options": [
+            "London",
+            "Berlin",
+            "Paris",
+            "Madrid"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 2,
+        "text": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 3,
+        "text": "Who painted the Mona Lisa?",
+        "options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Michelangelo"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 4,
+        "text": "What is the largest mammal in the world?",
+        "options": [
+            "Elephant",
+            "Blue Whale",
+            "Great White Shark",
+            "Giraffe"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 5,
+        "text": "What is the chemical symbol for gold?",
+        "options": [
+            "Au",
+            "Ag",
+            "Pb",
+            "Fe"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 6,
+        "text": "In which year did the Titanic sink?",
+        "options": [
+            "1912",
+            "1905",
+            "1898",
+            "1920"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 7,
+        "text": "What is the smallest prime number?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "0"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 8,
+        "text": "Who wrote the play 'Romeo and Juliet'?",
+        "options": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Mark Twain",
+            "Jane Austen"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 9,
+        "text": "What is the capital of Japan?",
+        "options": [
+            "Beijing",
+            "Seoul",
+            "Tokyo",
+            "Bangkok"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 10,
+        "text": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Helium"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 11,
+        "text": "What is the largest planet in our solar system?",
+        "options": [
+            "Earth",
+            "Jupiter",
+            "Saturn",
+            "Neptune"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 12,
+        "text": "What is the main ingredient in guacamole?",
+        "options": [
+            "Tomato",
+            "Avocado",
+            "Onion",
+            "Pepper"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "text": "Who discovered penicillin?",
+        "options": [
+            "Marie Curie",
+            "Alexander Fleming",
+            "Isaac Newton",
+            "Louis Pasteur"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 14,
+        "text": "What is the capital city of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 15,
+        "text": "In which continent is the Sahara Desert located?",
+        "options": [
+            "Asia",
+            "Africa",
+            "Australia",
+            "South America"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 16,
+        "text": "What is the hardest natural substance on Earth?",
+        "options": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Platinum"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 17,
+        "text": "Which element has the atomic number 1?",
+        "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Helium",
+            "Carbon"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 18,
+        "text": "Who is known as the father of modern physics?",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Albert Einstein",
+            "Niels Bohr"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 19,
+        "text": "What is the largest ocean on Earth?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 20,
+        "text": "What year did the Berlin Wall fall?",
+        "options": [
+            "1987",
+            "1989",
+            "1991",
+            "1993"
+        ],
+        "correctAnswer": 1
+    }
+]
