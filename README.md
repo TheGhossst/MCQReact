@@ -24,18 +24,22 @@ To get started with the MCQ Quiz Platform, follow these steps:
    ```bash
    git clone https://github.com/yourusername/mcq-quiz-platform.git
   ```
+
 2. **Navigate to the project directory**
   ```bash
   cd mcq-quiz-platform
   ```
+
 3. **Install the required dependencies**
   ```bash
   npm i
   ```
+
 4. **Start the development server**
   ```bash
   npm run dev
   ```
+  
 5. **Open your browser and navigate to**
   ```bash
   http://localhost:3000
